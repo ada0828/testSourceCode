@@ -1,6 +1,6 @@
 # testSourceCode
 
-Task1：
+Task1 (you can run this testNG class: /src/Task1/TestCase/Task1TestCase.java)：
 
 Develop tool and Framework: IDEA+Maven+ JAVA+Selenium+testNG
 
@@ -14,7 +14,7 @@ Testpoints:
 
 2、The “Trade” button is workable,When click “Trade” button in “XTZ/CRO” item, it will navigate to right url, the url should contain keyword ”XTZ_CRO” 
 
-Task2:
+Task2 (you can run this testNG class: /src/Task2/TestCase/Task2TestCase.java):
 
 Develop tool and Framework:IDEA+Maven+ JAVA+testNG
 
